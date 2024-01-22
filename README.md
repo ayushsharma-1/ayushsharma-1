@@ -1,8 +1,8 @@
 <h1 align="center">Hey there, I'm Ayush Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Sophomore+from+India)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/ayushsharma-1/ayushsharma-1/blob/main/coding-freak%20(1).gif">
 
 ## 🙋‍♂️
 - 💻 I’m currently working on something cool :wink: ;
@@ -32,9 +32,9 @@
 
 ## 📊 My Github Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayushparikh-code&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushparikh-code&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushparikh-code&theme=tokyonight" align="center" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushsharma-1&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsharma-1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsharma-1&theme=tokyonight" align="center" />
 </p>
 
 <details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
@@ -43,34 +43,20 @@
 
 <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
-  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ayushparikh-code&column=7"/>
-  </a> -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ayushsharma-1&column=7"/>
+  </a>
 </div>
 
 ---
-<!---
-[![Ayush Parikh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayushparikh-code&theme=dracula&area=true)](https://github.com/Ayushparikh-code)
-<br>
-
-
-
 
 
 <br><details> <summary align="center"> </samp></summary>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
+  <img src="https://github.com/ayushsharma-1/ayushsharma-1/blob/main/me.gif" width=400 height=340>
+  <img src="https://github.com/ayushsharma-1/ayushsharma-1/blob/main/new.gif" height=340/>
 </p></details>
  
-
-
- 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ayush-Sharma Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZEVXbLZ52XmnySJg)</div><br>
-<div align="center">
--->
-
 <div align="center">
   
 ## Here is a random joke that'll make you laugh!
@@ -84,7 +70,7 @@
 
 
 <p align="center">
-<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
+<img align="" height='120px' src="https://github.com/ayushsharma-1/ayushsharma-1/blob/main/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/ayushsharma-1/ayushsharma-1/blob/main/Geometric%20White.gif" />
 </p>
 <br>
 
@@ -94,17 +80,8 @@
   <i>Ask me anything I'am Happy to Help! </i>
   <br><br>
 <a target="_blank" href="in/ayush-sharma-ba6a8324a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:ayushparikh332@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/ayushparikh5"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="mailto:arunrudra1010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>
-
-<!---
-<div align="center">
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ayushparikh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ayushparikh" /></a></p>
-</div>
-<br>
-
-
 <h3 align="right">👋 Have the Best Day you can 🌈</h3>
