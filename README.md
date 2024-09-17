@@ -17,8 +17,7 @@
     <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
     <a href="https://www.docker.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="aws" width="40" height="40"/></a>   
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="aws" width="40" height="40"/></a>
-    <a href="" target="_blank"><img src=" https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="aws" width="40" height="40"/></a>
-   
+    <a href="https://www.linux.org/" target="_blank"><img src=" https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="aws" width="40" height="40"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
     <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
     <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
