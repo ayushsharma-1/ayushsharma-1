@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Practitioner;Full+Stack+Developer;Currently+Learning+Docker)](https://git.io/typing-svg)
 
+
 <img align="right" alt="Coding" width="400" src="https://github.com/ayushsharma-1/ayushsharma-1/blob/main/coding-freak%20(1).gif">
 
 ## 🙋‍♂️
