@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Ayush Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=true&width=435&lines=DevOps+Practitioner;Full+Stack+Developer;Currently+Learning+Docker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=DevOps+Practitioner;Full+Stack+Developer;Currently+Learning+Docker)](https://git.io/typing-svg)
 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/ayushsharma-1/ayushsharma-1/blob/main/coding-freak%20(1).gif">
