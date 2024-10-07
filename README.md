@@ -46,7 +46,22 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsharma-1&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsharma-1&theme=tokyonight" align="center" />
 </p>
+<a href="https://profile.codersrank.io/user/ayushsharma-1">![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ayushsharma-1)</a>
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-1526-9128" href="https://orcid.org/0000-0003-1526-9128" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-1526-9128</a></div>
+
+<a href="https://codetrace.com/users/ayushsharma-1"><img src="https://codetrace.com/widget/ayushsharma-1" width="220" height="50" /></a>
+
+<img src="http://www.hackthebox.eu/badge/image/370240" alt="Hack The Box">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsharma-1&show_icons=true&include_all_commits=true&theme=radical" alt="ayushsharma-1's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsharma-1&layout=compact&theme=radical" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsharma-1&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushsharma-1&theme=github_dark)
+
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ayushsharma-1)
 <details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 
 ---
