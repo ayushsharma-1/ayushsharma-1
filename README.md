@@ -41,10 +41,6 @@
 <br>
 
 ## 📊 My Github Stats
-<a href="https://codetrace.com/users/ayushsharma-1"><img src="https://codetrace.com/widget/ayushsharma-1" width="220" height="50" /></a>
-
-<img src="http://www.hackthebox.eu/badge/image/370240" alt="Hack The Box">
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsharma-1&show_icons=true&include_all_commits=true&theme=radical" alt="ayushsharma-1's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsharma-1&layout=compact&theme=radical" />
 
