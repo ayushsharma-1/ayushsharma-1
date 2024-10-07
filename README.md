@@ -44,14 +44,14 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="40" height="40" />
       <br>Swift
-    </td>
-    <td align="center" width="96">
+    </td> -->
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=go" alt="icon" width="40" height="40" />
       <br>Golang
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
       <br>MySQL
@@ -60,10 +60,10 @@
         <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="40" height="40" />
       <br>MongoDB
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="40" height="40" />
       <br>PostgreSQL
-    </td>
+    </td> -->
   </tr>
   <tr>
   <td align="center" width="96">
@@ -81,22 +81,22 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" />
       <br>React
     </td>
-    <td align="center"  width="96">
+<!--     <td align="center"  width="96">
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="40" height="40" alt="Redux" />
       <br>Redux
-    </td>
-    <td align="center" width="96">
+    </td> -->
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="nextjs" />
       <br>NextJS
-    </td>
+    </td> -->
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="tailwind" />
       <br>TailWind CSS
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=threejs" width="40" height="40" alt="threejs" />
       <br>Three.js
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
       <br>jQuery
@@ -116,17 +116,17 @@
         <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="express" />
       <br>ExpreeJS
     </td>
-            <td align="center" width="96">
+<!--             <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" height="40" alt="django" />
       <br>Django
-    </td>
+    </td> -->
               <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="40" height="40" alt="rest" />
       <br>REST
     </td>
-              <td align="center" width="96">
+<!--               <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" height="40" alt="GraphQL" />
-      <br>GraphQL
+      <br>GraphQL -->
   <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
@@ -137,10 +137,10 @@
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker" />
       <br>Docker
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes" />
       <br>Kubernetes
-    </td>
+    </td> -->
  </tr>
 </table>
 
