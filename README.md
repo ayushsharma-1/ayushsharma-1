@@ -54,6 +54,15 @@
         <img src="https://skillicons.dev/icons?i=go" alt="icon" width="40" height="40" />
       <br>Golang
     </td> -->
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="40" height="40" />
+      <br>bash
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="40" height="40" />
+      <br>figma
+    </td>
+          
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
       <br>MySQL
@@ -106,7 +115,7 @@
   </tr>
  <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="GitHub" />
+        <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="GitHub" />
       <br>Git
     </td>
         <td align="center" width="96">
@@ -118,6 +127,11 @@
         <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="express" />
       <br>ExpreeJS
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" alt="express" />
+      <br>Ubuntu
+    </td>
+    
 <!--             <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="40" height="40" alt="django" />
       <br>Django
