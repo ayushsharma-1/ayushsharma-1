@@ -62,10 +62,10 @@
         <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="40" height="40" />
       <br>figma
     </td>
-                    <td align="center" width="96">
+<!-- <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="icon" width="40" height="40" />
       <br>Linux
-    </td>
+    </td> -->
      
           
     <td align="center" width="96">
