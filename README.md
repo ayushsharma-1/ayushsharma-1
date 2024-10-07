@@ -107,7 +107,7 @@
  <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="GitHub" />
-      <br>Github
+      <br>Git
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
