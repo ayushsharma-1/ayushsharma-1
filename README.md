@@ -215,8 +215,8 @@
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="vscode" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://d28yx2zopyx2ad.cloudfront.net/assets/git.png" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://www.freeiconspng.com/thumbs/adobe-photoshop-icon/dark-adobe-photoshop-icon-0.png" title="Adobe Photoshop" alt="photoshop" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-illustrator-cs6-logo-png-transparent.png" title="Adobe illustrator" alt="illustrator" width="40" height="40"/></a></code>&nbsp;
+<!--     <code><a href="#" target="_blank"> <img src="https://www.freeiconspng.com/thumbs/adobe-photoshop-icon/dark-adobe-photoshop-icon-0.png" title="Adobe Photoshop" alt="photoshop" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-illustrator-cs6-logo-png-transparent.png" title="Adobe illustrator" alt="illustrator" width="40" height="40"/></a></code>&nbsp; -->
 </div>
 <br>
 
