@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00F7D3&center=true&vCenter=true&width=900&height=110&lines=DevOps+Practitioner;Full+Stack+Developer;Currently+Learning+Docker)](https://git.io/typing-svg)
 
+<a href="https://ayush-portfolio-epww.onrender.com/" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=ayushsharma-1&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+</a>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/ayushsharma-1/ayushsharma-1/blob/main/coding-freak%20(1).gif">
 
