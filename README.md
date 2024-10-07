@@ -245,16 +245,73 @@
 
 <br>
 
-## 📊 My Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsharma-1&show_icons=true&include_all_commits=true&theme=radical" alt="ayushsharma-1's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsharma-1&layout=compact&theme=radical" />
+<hr>
+<div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsharma-1&theme=github_dark)
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushsharma-1&theme=github_dark)
-<details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
+<p align="center">
+  <a href="https://github.com/ayushsharma-1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsharma-1&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/ayushsharma-1">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsharma-1&theme=radical" alt="Shivam's GitHub Contribution"/>
+  </a>
+</p>
+
+<hr>
+<div align="center">
+<a> 
+<!--     <a href="https://github.com/ayushsharma-1"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ayushsharma-1&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
+
+  <div align="center">
+  <a href="https://github.com/ayushsharma-1"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ayushsharma-1&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br>
+</a>
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--- Shivam's Quotes ----------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+  <hr><div align="center">
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Technology Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<hr>
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Developers' Quotes
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+<!--- Shivam's Activity Graph ----------------------------------------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsharma-1&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Metrics ------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My GitHub Metrics
+                  
+<br>
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
   <h4>🏆 Github Profile Trophy</h4>
@@ -264,32 +321,6 @@
 </div>
 
 ---
-
-
-<br><details> <summary align="center"> </samp></summary>
-<p align="left">
-  <img src="https://github.com/ayushsharma-1/ayushsharma-1/blob/main/me.gif" width=400 height=340>
-  <img src="https://github.com/ayushsharma-1/ayushsharma-1/blob/main/new.gif" height=340/>
-</p></details>
- 
-<div align="center">
-  
-## Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-<br><details><summary align="left"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
-</div>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7Bayushsharma-1%7D/count.svg" /></p> 
-<br></div>
-
-
-<p align="center">
-<img align="" height='120px' src="https://github.com/ayushsharma-1/ayushsharma-1/blob/main/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/ayushsharma-1/ayushsharma-1/blob/main/Geometric%20White.gif" />
-</p>
-<br>
-
-
 <hr>
 <p align="center">
   <i>Ask me anything I'am Happy to Help! </i>
