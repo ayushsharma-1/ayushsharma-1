@@ -47,8 +47,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsharma-1&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushsharma-1&theme=github_dark)
-
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ayushsharma-1)
 <details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
 
 ---
