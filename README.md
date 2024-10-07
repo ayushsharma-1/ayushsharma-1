@@ -146,9 +146,6 @@
  </tr>
 </table>
 
-
-
-
 <!-- Skill Set  (Programming Languages)  -->
 <div align="center">
     <h3><b>Programming Languages</b></h3>
@@ -242,10 +239,7 @@
 </div>
 </div>
 <hr>
-
 <br>
-
-<hr>
 <div align="center">
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
@@ -272,10 +266,6 @@
   <br>
 </a>
 
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!--- Shivam's Quotes ----------------------------------------------------------------------------------------------------------------------------->
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-
   <hr><div align="center">
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Technology Joke
@@ -296,14 +286,9 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
-
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Github Profile Trophy
                   
 <br>
-
-
-
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -312,7 +297,7 @@
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<hr>
+
 <p align="center">
   <i>Ask me anything I'am Happy to Help! </i>
   <br><br>
