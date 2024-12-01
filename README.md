@@ -305,13 +305,24 @@
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/ayush-018/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/ayush-018/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/ayush-018/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/ayush-018/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ayush-018?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
 
 <p align="center">
   <i>Ask me anything I'am Happy to Help! </i>
   <br><br>
 <a target="_blank" href="in/ayush-sharma-ba6a8324a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:arunrudra1010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="mailto:ayushsharma18001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 </p>
 <h3 align="right">👋 Have the Best Day you can 🌈</h3>
