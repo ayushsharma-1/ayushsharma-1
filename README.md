@@ -37,18 +37,6 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
       <br>JavaScript
     </td>
-<!--     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
-      <br>TypeScript
-    </td> -->
-<!--     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="40" height="40" />
-      <br>Swift
-    </td> -->
-<!--     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" alt="icon" width="40" height="40" />
-      <br>Golang
-    </td> -->
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="40" height="40" />
       <br>bash
@@ -57,13 +45,17 @@
         <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="40" height="40" />
       <br>figma
     </td>
-<!-- <td align="center" width="96">
+<td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="icon" width="40" height="40" />
       <br>Linux
-    </td>  -->
+    </td> 
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
       <br>MySQL
+    </td>
+                    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=Jenkins" alt="icon" width="40" height="40" />
+      <br>bash
     </td>
 <!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="40" height="40" />
@@ -86,25 +78,17 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" />
       <br>React
     </td>
-<!--     <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="40" height="40" alt="Redux" />
-      <br>Redux
-    </td> -->
-<!--     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="nextjs" />
-      <br>NextJS
-    </td> -->
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="40" height="40" />
       <br>MongoDB
     </td>
-<!--     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=threejs" width="40" height="40" alt="threejs" />
-      <br>Three.js
-    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
       <br>jQuery
+    </td>
+                         <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=Ansible" alt="icon" width="40" height="40" />
+      <br>bash
     </td>
   </tr>
  <tr>
@@ -183,12 +167,9 @@
     <h3><b>Libraries and Frameworks</b></h3>
     <code><a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" title="NodeJS" alt="nodejs" height="40"/></a></code>&nbsp;
       <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></code>
-<!--       <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg" title="NextJS" alt="nextjs" height="40"/></a></code>&nbsp; -->
     <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Jquery-icon.svg" title="jquery" alt="jquery"  height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" title="BootStrap" alt="bootstrap"  height="40"/></a></code>&nbsp;
-<!--     <code><a href="#" target="_blank"><img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" title="Django" alt="django" width="40" height="40"/></a></code>&nbsp;
-     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" title="Selenium" alt="Selenium" height="40"/></a></code>&nbsp; -->
 </div>
 <br>
 
@@ -206,9 +187,7 @@
 <div align="center">
     <h3><b>Cloud</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" title="aws" alt="aws"  height="40"/></a></code>&nbsp;
-<!--     <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="google cloud" alt="google cloud" width="40" height="40"/> </a></code>&nbsp; -->
-<!--       <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="azure" width="40" height="40"/> </a></code>&nbsp;&nbsp; -->
-        <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Cib-netlify_%28CoreUI_Icons_v1.0.0%29.svg" title="Netlify" alt="Netlify" width="40" height="40"/> </a></code>&nbsp;&nbsp; -->
+        <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Cib-netlify_%28CoreUI_Icons_v1.0.0%29.svg" title="Netlify" alt="Netlify" width="40" height="40"/> </a></code>&nbsp;&nbsp;
    <code><a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/logo-vercel-icon-512x444-szlkql7g.png" title="Vercel" alt="vercel" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" title="Heroku" alt="heroku" width="40" height="40"/></a></code>&nbsp;
 </div>
