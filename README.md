@@ -207,7 +207,6 @@
 <div align="center">
     <h3><b>Operating Systems</b></h3>
     <code><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/></a></code>&nbsp;
-<!--     <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg?style=white" title="MacOS" alt="MacOS" width="40" height="40"/> </a></code>&nbsp; -->
     <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></code>&nbsp;
     <br><br>
 </div>
@@ -222,13 +221,13 @@
 
 <p align="center">
   <a href="https://github.com/ayushsharma-1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsharma-1&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsharma-1&theme=radical&border=7F3FBF&background=0D1117" alt="Ayush's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ayushsharma-1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsharma-1&theme=radical" alt="Shivam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsharma-1&theme=radical" alt="Ayush's GitHub Contribution"/>
   </a>
 </p>
 
