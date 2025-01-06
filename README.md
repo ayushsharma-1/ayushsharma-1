@@ -147,10 +147,10 @@
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker" />
       <br>Docker
     </td>
-<!--     <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes" />
       <br>Kubernetes
-    </td> -->
+    </td>
  </tr>
 </table>
 
@@ -208,9 +208,9 @@
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" title="aws" alt="aws"  height="40"/></a></code>&nbsp;
 <!--     <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="google cloud" alt="google cloud" width="40" height="40"/> </a></code>&nbsp; -->
 <!--       <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="azure" width="40" height="40"/> </a></code>&nbsp;&nbsp; -->
-<!--         <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Cib-netlify_%28CoreUI_Icons_v1.0.0%29.svg" title="Netlify" alt="Netlify" width="40" height="40"/> </a></code>&nbsp;&nbsp; -->
-<!--   <code><a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/logo-vercel-icon-512x444-szlkql7g.png" title="Vercel" alt="vercel" width="40" height="40"/></a></code>&nbsp; -->
-<!--     <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" title="Heroku" alt="heroku" width="40" height="40"/></a></code>&nbsp; -->
+        <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Cib-netlify_%28CoreUI_Icons_v1.0.0%29.svg" title="Netlify" alt="Netlify" width="40" height="40"/> </a></code>&nbsp;&nbsp; -->
+   <code><a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/logo-vercel-icon-512x444-szlkql7g.png" title="Vercel" alt="vercel" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" title="Heroku" alt="heroku" width="40" height="40"/></a></code>&nbsp;
 </div>
 <br>
 
@@ -220,8 +220,6 @@
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="vscode" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://d28yx2zopyx2ad.cloudfront.net/assets/git.png" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
-<!--     <code><a href="#" target="_blank"> <img src="https://www.freeiconspng.com/thumbs/adobe-photoshop-icon/dark-adobe-photoshop-icon-0.png" title="Adobe Photoshop" alt="photoshop" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-illustrator-cs6-logo-png-transparent.png" title="Adobe illustrator" alt="illustrator" width="40" height="40"/></a></code>&nbsp; -->
 </div>
 <br>
 
@@ -231,13 +229,12 @@
     <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=git" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" title="Docker" alt="Docker" width="40" height="40"/></a></code>&nbsp;
-<!--     <code><a href="#" target="_blank"> <img src="https://d28yx2zopyx2ad.cloudfront.net/assets/kubernetes.png" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a></code>&nbsp; -->
+    <code><a href="#" target="_blank"> <img src="https://d28yx2zopyx2ad.cloudfront.net/assets/kubernetes.png" title="Kubernetes" alt="Kubernetes" width="40" height="40"/></a></code>&nbsp;
     <br><br>
 </div>
 
 <div align="center">
     <h3><b>Operating Systems</b></h3>
-<!--     <code><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="android" alt="android" width="40" height="40"/></a></code>&nbsp; -->
     <code><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/></a></code>&nbsp;
 <!--     <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg?style=white" title="MacOS" alt="MacOS" width="40" height="40"/> </a></code>&nbsp; -->
     <code><a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></code>&nbsp;
