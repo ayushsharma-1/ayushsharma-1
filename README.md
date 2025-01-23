@@ -221,7 +221,7 @@
 
 <p align="center">
   <a href="https://github.com/ayushsharma-1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsharma-1&theme=radical&border=7F3FBF&background=0D1117" alt="Ayush's GitHub streak"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ayushsharma-1" alt="Ayush's GitHub streak"/>
   </a>
 </p>
 
@@ -287,8 +287,12 @@
 <p align="center">
   <i>Ask me anything I'am Happy to Help! </i>
   <br><br>
-<a target="_blank" href="in/ayush-sharma-ba6a8324a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:ayushsharma18001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.codechef.com/users/ayush-018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayush-018" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ayush-018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayush-018" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ayush-018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush-018" height="30" width="40" /></a>
+</p>
 <br>
 </p>
 <h3 align="right">👋 Have the Best Day you can 🌈</h3>
