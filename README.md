@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsharma-1&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsharma-1" /> </p>
 
-- 🔭 I’m currently working on [Ai Chart Builder](https://github.com/ayushsharma-1/Ai-Chart-Builder)
+- 🔭 I’m currently working on [AiKey](aikey.thinkdeck.site)
 
-- 🌱 I’m currently learning **Vue.Js and PHP**
+- 🌱 I’m currently learning **Nest.js**
 
 - 👨‍💻 All of my projects are available at [https://sharmaayush.site](https://sharmaayush.site)
 
