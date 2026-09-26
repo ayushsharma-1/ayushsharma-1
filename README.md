@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsharma-1&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsharma-1" /> </p>
 
-- 🔭 I’m currently working on [AiKey](aikey.thinkdeck.site)
+- 🔭 I’m currently working on AiKey
 
 - 🌱 I’m currently learning **Nest.js**
 
